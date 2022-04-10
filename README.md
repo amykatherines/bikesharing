@@ -11,14 +11,24 @@ This story highlights some key points about the ridership.  On this "Subscriber 
 
 ![subscriber busy time](images/Subscriber_Type_Busy_Times.PNG)
 
-On the Usage by Gender Heat Map below, you can also see that males use the rideshare more than females but both have the patterrn of heavy usage before and after daytime work hours.
+On the Usage by Gender Heat Map below, you can also see that males use the rideshare more than females but both have the pattern of heavy usage before and after daytime work hours.
 
 ![gender breakdown](images/Usage_by_Gender_Heat_Map.PNG)
 
-Looking at the Duration of Rides and the Busy times, you can see that most rides are less than 30-minutes.  Those rides, are typically during before/after work during the workdays and mid-morning to early evening on the weekends.  
+Looking at the Duration of Rides and the Busy times, you can see that most rides are less than 30-minutes.  Those rides are typically during before/after work during the workdays and mid-morning to early evening on the weekends.  
 
 ![Duration and Busy Time Analysis](images/Duration_and_Busy_Time_Analysis.PNG)
 
-Finally, when we look at the duration by gender and the overall difference between male/female/unknown riders, you can see that there are more male riders but the duration pattern seems the same between the genders.
+Finally, when we look at the duration by gender and the overall difference between male/female/unknown riders, you can see that there are more male riders, but the duration pattern seems the same between the genders.
 
 ![Duration and Busy Time Analysis](images/Checkout_Times_by_Gender.PNG)
+
+## Summary
+
+Overall, this set of charts helps highlight some key points in the NYC data.  More males than females use the rideshare.  There are concentrations of times of the day based on day of the week when the bikes are most used.  Subscribers seem to have reliable patterns of use.
+
+Further analysis of the subscriber population would be beneficial to this analysis.  I would recommend  
+
+1. A visualization of the duration of subscription by subscribers
+2. A visualization of subscriber patterns throughout the year
+3. A visualization of where subscriber home and/or work addresses are concentrated
